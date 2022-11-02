@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43c6578-a2d1-47d8-9e16-230a8b0e2cf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oct27/NestedFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct27/loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct29/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct29/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct29/SwitchClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct29/While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct13/IntroStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct13/IntroStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct15/AdvanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct15/AdvanceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct15/Introlibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct15/Introlibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct15/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct15/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct20/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct20/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct20/kk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct20/kk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct22/ControlStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct22/ControlStat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct22/Eligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct22/Eligibility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct22/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct22/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct22/IfElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct22/IfElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct22/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct22/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct22/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oct4/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct4/FirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oct29/BreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oct29/BreakContinue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
